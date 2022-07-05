@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-proj-bare",
+    "slug": "rn-proj-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-proj-bare"
+}
